@@ -14,9 +14,8 @@ public class Methods // Contains all methods for Main.java, for JavaONE Project
         System.out.println("Hello!");
         System.out.println("Welcome to te Tripple X! game");
         System.out.println();
-        System.out.println("To Start the game please type \"Start\" and \"s\" confirm with Enter");
+        System.out.println("To Start the game please type \"Start\" or \"s\" and confirm with Enter");
         System.out.println("To Quit the game please type \"Exit\" or \"q\" and confirm with Enter");
-        userDecision();
     }
 
     // Gets information from the user, to start the game or to exit program (includes wrong input from user)
